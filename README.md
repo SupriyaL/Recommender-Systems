@@ -23,4 +23,4 @@ numpy
 4. Time taken for prediction of rating
 
 # Setting it up
-Run CF.py, Baseline.py, Singular_Value_Decomposition.py and CUR_Decomposition respectively.
+Run CF.py, Baseline.py, Singular_Value_Decomposition.py and CUR_Decomposition.py respectively.
