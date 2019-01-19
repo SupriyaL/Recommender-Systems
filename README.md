@@ -12,7 +12,7 @@ numpy
 
 # Techniques
 1. Collaborative Filtering
-2. Baseline
+2. Baseline Approach
 3. SVD Decomposition
 4. CUR Decomposition
 
